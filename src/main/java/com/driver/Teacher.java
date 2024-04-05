@@ -12,11 +12,11 @@ public class Teacher {
 
     }
 
-	public Teacher(String name, int numberOfStudents, int age) {
+	public Teacher(String name, int numberOfStudents, int ag) {
 		super();
 		this.name = name;
 		this.numberOfStudents = numberOfStudents;
-		this.age = age;
+		this.age = ag;
 	}
 
 	public String getName() {
